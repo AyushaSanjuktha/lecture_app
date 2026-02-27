@@ -401,6 +401,6 @@ else:
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.markdown("---")
 st.markdown(
-    "<p style='text-align:center; color:#999; font-size:0.8rem;'>Built with Streamlit · OpenAI Whisper · Google Gemini · by M Nanthini</p>",
+    "<p style='text-align:center; color:#999; font-size:0.8rem;'>Built with Streamlit · OpenAI Whisper · Google Gemini · by Ayusha </p>",
     unsafe_allow_html=True
 )
