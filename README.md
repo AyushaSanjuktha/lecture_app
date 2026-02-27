@@ -56,4 +56,4 @@ Get a free key at: https://aistudio.google.com/app/apikey
 
 ---
 
-Built by M Nanthini | CSE | Capstone Project
+Built by Ch Ayuha Sanjuktha | CSE 
